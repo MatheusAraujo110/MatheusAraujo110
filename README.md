@@ -1,5 +1,7 @@
 ### Seja bem vindo ao meu GitHub :computer:
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=900&color=00ff21&multiline=true&repeat=false&width=550&height=70&lines=Matheus+Araujo+do+Nascimento)](https://git.io/typing-svg)
+
 Me chamo Matheus Araujo, sou do Rio de Janeiro. Tenho 23 anos, sou um programador front End, atualmente estou aprendendo e criando projetos com:  :round_pushpin:
 <br><br/>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/> 
