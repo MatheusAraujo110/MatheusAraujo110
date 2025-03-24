@@ -17,16 +17,14 @@ Atualmente focado em projetos **Front-End** e sempre em busca de novos aprendiza
 
 ---
 
-## 🚀 Tecnologias que estou utilizando:
+## 🚀 Tecnologias e Ferramentas:
 
-### 💻 Front-End:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,next,tailwindcss,styledcomponents&theme=light" />
 </p>
 
-### ⚙️ Back-End e Ferramentas:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=nodejs,git,npm,yarn&theme=light" />
 </p>
 
 ---
@@ -43,17 +41,14 @@ Atualmente focado em projetos **Front-End** e sempre em busca de novos aprendiza
 ## 🌐 Vamos nos conectar!
 
 <div align="center">
-  <a href="mailto:theusnascimento386@gmail.com">
+  <a href="matheusa.nascimento.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/matheus-araujo-nascimento" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/MatheusAraujo110" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://seu-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </div>
 
