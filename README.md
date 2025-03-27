@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=900&color=0969da&center=true&vCenter=true&multiline=true&repeat=false&width=550&height=70&lines=Matheus+Araujo+do+Nascimento" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </p>
 
 <p align="center">
